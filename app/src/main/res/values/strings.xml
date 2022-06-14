@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Math</string>
+    <string name="app_Title">Math Game</string>
+    <string name="app_welcome">Welcome!</string>
+    <string name="app_highScore">High Score</string>
+    <string name="app_enterName">Please Enter Your Name Below:</string>
+    <string name="app_information"><u>Game Information</u></string>
+    <string name="app_description1">Each question consists of 14 mathematical questions, covering 7 topics. Questions are presented in a multiple choice format, with only one correct answer.</string>
+    <string name="app_description2">Make sure you have selected an answer before clicking the Next button to the next question, any non selected question will count as 0 point automatic.</string>
+    <string name="app_enjoy">Enjoy!</string>
+    <string name="Question">Question</string>
+</resources>
