@@ -15,6 +15,14 @@ The app display 14 questions with multiple choice (4) for each question with **_
 questions are display randomly from the questions pool that contains 42 questions. The questions set
 cover the 7 topics provided below. Two questions from each topic. 
 
+* Number - number and place value
+* Number - addition and subtraction
+* Number - multiplication and division
+* Number - fractions
+* Measurement
+* Geometry - properties of shapes
+* Geometry - position and direction
+
 <img src=images/questions.png width="20%">
 
 When the student finishes the quiz by
@@ -29,10 +37,3 @@ visable in the database.
 
 <img src=images/SQLite.png width="50%">
 
-* Number - number and place value
-* Number - addition and subtraction
-* Number - multiplication and division
-* Number - fractions
-* Measurement
-* Geometry - properties of shapes
-* Geometry - position and direction
