@@ -9,6 +9,10 @@ standard principles of the Model-View-Controller (MVC) design pattern and approp
 In the beginning, the app requires the student to insert the name, then select "start" button to begin
 the math quiz.
 
+<img src=images/beginning.png width="20%">
+
+(images/beginning.png)
+
 The app display 14 questions with multiple choice (4) for each question with **_ONE_** correct answer. These
 questions are display randomly from the questions pool that contains 42 questions. The questions set
 cover the 7 topics provided below. Two questions from each topic. When the student finishes the quiz by
