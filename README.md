@@ -9,11 +9,16 @@ standard principles of the Model-View-Controller (MVC) design pattern and approp
 In the beginning, the app requires the student to insert the name, then select "start" button to begin
 the math quiz.
 
+<img src=images/beginning.png width="20%">
+
 The app display 14 questions with multiple choice (4) for each question with **_ONE_** correct answer. These
 questions are display randomly from the questions pool that contains 42 questions. The questions set
 cover the 7 topics provided below. Two questions from each topic. When the student finishes the quiz by
-selecting the "finish" button, the app display the test grade. Also, the app will save the test result
-including the student entered details and data (student name, test date and grade).
+selecting the "finish" button, the app display the test grade by using AnyChart gradle to create an interactive 
+charts for the result. Also, the app will save the test result including the student entered details and 
+data (student name, test date and grade).
+
+
 
 * Number - number and place value
 * Number - addition and subtraction
