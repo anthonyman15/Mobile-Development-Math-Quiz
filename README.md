@@ -1,5 +1,5 @@
 # Mobile-Development-Math-Quiz
-This quiz designed for **_YEAR 1_** primary school students to use as an education quiz mobile application on Android.
+This quiz application is designed for **_YEAR 1_** primary school students to use as an education mobile quiz app based on Android platform.
 
 This project is to aim to demonstrate my ability to design and implement a Mobile Application consisting
 of a set of Kotlin, using Android Studio and SQLite to build a suitable user interface, to implement
