@@ -19,7 +19,7 @@ cover the 7 topics provided below. Two questions from each topic.
 
 When the student finishes the quiz by
 selecting the "**_finish_**" button at the final question page, the app display the test grade by using AnyChart gradle to create an interactive 
-charts for the result. Also, the app will save the test result including the student entered details and 
+charts for the result (credit to **ArsenyMalkov**, https://github.com/AnyChart/AnyChart-Android) . Also, the app will save the test result including the student entered details and 
 data (student name, test date and grade).
 
 <img src=images/result.png width="20%">
